@@ -38,7 +38,11 @@ learning, sound reasoning, and problem-solving skills.
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=lcespinosa&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lcespinosa&show_icons=true&hide_border=true&theme=dracula" alt="Liuver Carrera Espinosa's GitHub Stats">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=lcespinosa&hide_border=true&theme=dracula" alt="visitors"> 
+</div>
+<br/>
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
