@@ -1,7 +1,7 @@
     █▀▀ █░█ █░░ █░░ ▄▄ █▀ ▀█▀ ▄▀█ █▀▀ █▄▀  █▀ █▀█ █▀▀ ▀█▀ █░█░█ ▄▀█ █▀█ █▀▀   █▀▀ █▄░█ █▀▀ █ █▄░█ █▀▀ █▀▀ █▀█
     █▀░ █▄█ █▄▄ █▄▄ ░░ ▄█ ░█░ █▀█ █▄▄ █░█  ▄█ █▄█ █▀░ ░█░ ▀▄▀▄▀ █▀█ █▀▄ ██▄   ██▄ █░▀█ █▄█ █ █░▀█ ██▄ ██▄ █▀▄
 ###  Hi all, I'm Liuver <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-<a href="https://twitter.com/gcristiac" ><img src="https://img.shields.io/twitter/follow/gcristiac.svg?style=social" /> </a>
+<a href="https://twitter.com/EspinosaLiuver" ><img src="https://img.shields.io/twitter/follow/EspinosaLiuver.svg?style=social" /> </a>
 <br>
 
 A professional software developer with 10+ years 🚀 of IT experiences working with patterns and best practices, trained 
