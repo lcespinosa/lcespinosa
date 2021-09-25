@@ -47,7 +47,7 @@ learning, sound reasoning, and problem-solving skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcespinosa&langs_count=8&layout=compact&hide_border=true&theme=dracula)](https://github.com/lcespinosa/github-readme-stats)
 
-<img src="https://wakatime.com"><img src="https://wakatime.com/share/@lcespinosa/c8babe3d-ef07-4516-a903-5d26340fe9bc.png" alt="ide stats"> 
+<!--<img src="https://wakatime.com"><img src="https://wakatime.com/share/@lcespinosa/c8babe3d-ef07-4516-a903-5d26340fe9bc.png" alt="ide stats"> -->
 
 </div>
 
