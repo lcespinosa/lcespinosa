@@ -36,15 +36,24 @@ learning, sound reasoning, and problem-solving skills.
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
+<!--START_SECTION:waka-->
+
 ## Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lcespinosa&show_icons=true&hide_border=true&theme=dracula" alt="Liuver Carrera Espinosa's GitHub Stats">
+
 <img src="http://github-readme-streak-stats.herokuapp.com?user=lcespinosa&hide_border=true&theme=dracula" alt="visitors"> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcespinosa&langs_count=8&layout=compact&hide_border=true&theme=dracula)](https://github.com/lcespinosa/github-readme-stats)
+
+[![lcespinosa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lcespinosa&hide_border=true&theme=dracula)](https://github.com/lcespinosa/github-readme-stats)
+
 </div>
+
 <br/>
 
-<!--START_SECTION:waka-->
+
 **I'm a night 🦉** 
 
 ```text
