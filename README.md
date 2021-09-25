@@ -46,7 +46,6 @@ learning, sound reasoning, and problem-solving skills.
 <img src="http://github-readme-streak-stats.herokuapp.com?user=lcespinosa&hide_border=true&theme=dracula" alt="visitors"> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcespinosa&langs_count=8&layout=compact&hide_border=true&theme=dracula)](https://github.com/lcespinosa/github-readme-stats)
-
 [![lcespinosa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@lcespinosa&hide_border=true&theme=dracula)](https://github.com/lcespinosa/github-readme-stats)
 
 </div>
