@@ -1,6 +1,6 @@
 # Hi, I'm Liuver
 
-A fullstack developer from Cuba with 10+ years 🚀 of IT experiences working with patterns and best practices, trained 
+A Full-Stack developer from Cuba with 10+ years 🚀 of IT experiences working with patterns and best practices, trained 
 to develop web and mobile applications with end-user experience, teamwork abilities, proactive, self-motivation, quick 
 learning, sound reasoning, and problem-solving skills.
 
