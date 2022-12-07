@@ -10,7 +10,7 @@ learning, sound reasoning, and problem-solving skills.
 
 - 🌱 I’m currently learning [![Angular](https://img.shields.io/badge/-Angular-005571?style=for-the-badge&logo=Angular&logoColor=ffffff)](https://angular.io/)
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:liuver.carrera.espinosa@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EspinosaLiuver) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/liuver-carrera-espinosa)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:liuver.carrera.espinosa@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EspinosaLiuver) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/liuver-carrera-espinosa) [![Codewars](https://www.codewars.com/users/lcespinosa/badges/large)](https://www.codewars.com/users/lcespinosa)
 
 ## Operating System & Tools
 
